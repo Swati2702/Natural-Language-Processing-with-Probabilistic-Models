@@ -19,7 +19,7 @@ Compute the emission matrix B in a Hidden Markov Model
 Compute the Viterbi algorithm
 Compute the accuracy of your own model
 
-<h2> Assignment 3: Language Models: Auto-Complete<h2>
+<h2> Assignment 3: Language Models: Auto-Complete</h2>
 In this assignment, you will build an auto-complete system. Auto-complete system is something you may see every day
 
 When you google something, you often have suggestions to help you complete your search.
