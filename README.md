@@ -25,3 +25,23 @@ In this assignment, you will build an auto-complete system. Auto-complete system
 When you google something, you often have suggestions to help you complete your search.
 When you are writing an email, you get suggestions telling you possible endings to your sentence.
 By the end of this assignment, you will develop a prototype of such a system.
+
+
+<h2> Assignment 4: Word Embeddings </h2>
+Welcome to the fourth (and last) programming assignment of Course 2!
+
+In this assignment, you will practice how to compute word embeddings and use them for sentiment analysis.
+
+To implement sentiment analysis, you can go beyond counting the number of positive words and negative words.
+You can find a way to represent each word numerically, by a vector.
+The vector could then represent syntactic (i.e. parts of speech) and semantic (i.e. meaning) structures.
+In this assignment, you will explore a classic way of generating word embeddings or representations.
+
+You will implement a famous model called the continuous bag of words (CBOW) model.
+By completing this assignment you will:
+
+Train word vectors from scratch.
+Learn how to create batches of data.
+Understand how backpropagation works.
+Plot and visualize your learned word vectors.
+Knowing how to train these models will give you a better understanding of word vectors, which are building blocks to many applications in natural language processing.
